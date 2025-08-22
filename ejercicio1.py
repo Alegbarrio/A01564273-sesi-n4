@@ -12,10 +12,8 @@ else:
         print("Par")
     else:
         print("Impar")
-        
+
               
-
-
 
 
         
